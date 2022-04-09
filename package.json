@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.14",
     "@cubejs-client/core": "^0.19.42",
     "@cubejs-client/ngx": "^0.19.42",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "ng2-charts": "^2.3.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
